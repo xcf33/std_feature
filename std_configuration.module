@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the STD Configuration feature.
+ */
+
+include_once 'std_configuration.features.inc';
